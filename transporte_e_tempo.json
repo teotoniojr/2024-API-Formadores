@@ -1,0 +1,17 @@
+{
+  "pesquisa_transporte": {
+    "carro_particular": 300000,
+    "aplicativos_transporte": 150000,
+    "onibus_transporte_publico": 350000,
+    "bicicleta": 70000,
+    "caminhada": 80000,
+    "outros_meios": 50000
+  },
+  "pesquisa_tempo": {
+    "menos_10_min": 100000,
+    "menos_30_min": 400000,
+    "menos_45_min": 200000,
+    "menos_1_hora": 150000,
+    "mais_1_hora": 150000
+  }
+}
